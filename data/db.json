@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the New Blog",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio cum sequi perspiciatis voluptas, enim et recusandae similique architecto eius accusantium beatae ea asperiores adipisci. Vero doloremque magnam quis quod expedita.",
+      "author": "Shivam"
+    },
+    {
+      "title": "Naruto ",
+      "body": "Once upon a time a tailed beast attacked a village and in order to save the village many people lost their life and at last fourth hokage of that village sealed that beast inside his own child and also gave up his life during that",
+      "author": "Shivam",
+      "id": 8
+    },
+    {
+      "title": "Lorem Ipsum",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "Shivam",
+      "id": 11
+    }
+  ]
+}
